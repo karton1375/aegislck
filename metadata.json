@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Lock",
+  "description": "Минималистичное мобильное приложение с криптографической HMAC Hash-Chain верификацией неизменяемого журнала и встроенным онбордингом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
